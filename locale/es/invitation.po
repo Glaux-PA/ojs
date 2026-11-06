@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-11-06 12:00+0000\n"
+"Last-Translator: Glaux\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "acceptInvitation.accountDetails.stepDescription"
+msgstr "Para empezar a utilizar OJS y aceptar el nuevo rol, deberá crear una cuenta. Para ello, introduzca un nombre de usuario/a y una contraseña."
+
+msgid "acceptInvitation.accountDetails.stepLabel"
+msgstr "{$step} - Crear cuenta de OJS"
+
+msgid "acceptInvitation.accountDetails.stepName"
+msgstr "Crear cuenta de OJS"
+
+msgid "acceptInvitation.detailsReview.nextButtonLabel"
+msgstr "Aceptar y continuar a OJS"
+
+msgid "acceptInvitation.detailsReview.stepDescription"
+msgstr "Revise los datos para comenzar con sus nuevos roles en OJS"
+
+msgid "acceptInvitation.modal.message"
+msgstr "¡Enhorabuena por su nuevo rol en OJS! Es posible que ahora tenga acceso a nuevas opciones. Si necesita ayuda para entender el sistema, haga clic en el botón «Ayuda» que encontrará en todo el sistema."
+
+msgid "acceptInvitation.modal.title"
+msgstr "Se le ha asignado un nuevo rol en OJS"
+
+msgid "acceptInvitation.verifyOrcid.stepDescription"
+msgstr "Puede elegir verificar su ORCID iD u omitirlo. Si decide omitirlo ahora, podrá verificar su ORCID iD más adelante desde la sección de su perfil en OJS"
+
+msgid "invitation.orcid.acceptInvitation.message"
+msgstr "No verificado. Puede verificar su ORCID iD desde la sección de su perfil en OJS."
+
+msgid "invitation.role.masthead"
+msgstr "Cabecera editorial de la revista"
+
+msgid "invitation.wizard.pageTitleDescription"
+msgstr "Está invitando a un usuario/a a asumir un rol en OJS"
+
+msgid "userInvitation.enterDetails.stepDescription"
+msgstr "Puede invitarlo/a a asumir un rol en OJS"
+
+msgid "userInvitation.modal.message"
+msgstr "Se ha invitado a {$email} a un nuevo rol en OJS. La invitación aparece en «Invitaciones», en la página Usuarios/as y roles, mientras espera su respuesta."
+
+msgid "userInvitation.roleTable.journalMasthead"
+msgstr "Cabecera editorial de la revista"
+
+msgid "userInvitation.search.userFound"
+msgstr "El usuario/a ya existe en la revista"
+
+msgid "userInvitation.search.userNotFound"
+msgstr "El usuario/a no tiene ningún rol en esta revista"
+
+msgid "userInvitation.searchUser.stepDescription"
+msgstr "Busque al usuario/a por dirección de correo electrónico, nombre de usuario/a u ORCID iD. Introduzca al menos uno de estos datos para empezar. Si el usuario/a no existe, puede invitarlo/a a asumir roles y a formar parte de su revista. Si el usuario/a ya existe en el sistema, puede ver su información e invitarlo/a a asumir roles adicionales."
+
+msgid "userInvitation.sendMail.stepDescription"
+msgstr "Envíe un correo electrónico al usuario/a para informarle de la invitación, los siguientes pasos, las políticas de protección de datos (RGPD) de la revista y la verificación de ORCID"

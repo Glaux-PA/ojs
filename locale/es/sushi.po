@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-11-06 12:00+0000\n"
+"Last-Translator: Glaux\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "sushi.reports.pr.description"
+msgstr "Actividades resumidas para toda la revista."
+
+msgid "sushi.reports.pr_p1.description"
+msgstr "Uso a nivel de revista resumido por Metric_Type."
+
+msgid "sushi.reports.tr.description"
+msgstr "Actividades a nivel de revista."
+
+msgid "sushi.reports.tr_j3.description"
+msgstr "Informe sobre el uso del contenido de la revista para todos los Metric_Type, desglosado por Access_Type."
+
+msgid "sushi.reports.ir.description"
+msgstr "Actividades a nivel de artículo."
+
+msgid "sushi.reports.ir_a1.description"
+msgstr "Informa sobre las solicitudes de artículos de la revista a nivel de artículo."
