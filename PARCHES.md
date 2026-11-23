@@ -16,7 +16,7 @@ Lo que se cambia en `pkp-lib` afecta a OJS y a OMP.
 |---|---|---|
 | La vista Rechazadas del panel sale también a subeditores y asistentes | `pkp-lib`: `classes/submission/Repository.php` | OJS y OMP |
 | Selector de revisión al cambiar archivo en formatos de publicación (pkp-lib#13416) | `pkp-lib`: `PKPApplication.php` y `PKPSubmissionFilesUploadBaseForm.php`. `omp`: `classes/core/Application.php` | Solo OMP |
-| Traducción al español de `invitation.po` y `sushi.po` | `ojs`: `locale/es`. `pkp-lib`: `locale/es/sushi.po` | OJS y OMP |
+| Traducción al español de `invitation.po` y `sushi.po`, y cadenas que faltaban en `common.po`, `user.po` e `invitation.po` | `ojs`: `locale/es`. `pkp-lib`: `locale/es/sushi.po`, `common.po`, `user.po` e `invitation.po` | OJS y OMP |
 
 Si PKP arregla un fallo en una versión nueva, se quita de la tabla.
 
